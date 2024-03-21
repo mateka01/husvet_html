@@ -1,3 +1,11 @@
 Készíts weblapot a szokásos layout-tal (flexbox).
-Legyen header, footer, content, menu...
+Legyen header, footer, content, menu
+
+Miről szól a húsvét!
+  (https://mult-kor.hu/mirol-szol-husvet-unnepe-20150405)
+Húsvét története 
+  (yt: a húsvét története)
+Locsolóvers
+  (chatGPT, saját kép)
+
 A megoldást kérem githubra feltölteni és a github linket a classroomba feltölteni.
