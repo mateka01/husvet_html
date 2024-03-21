@@ -1,3 +1,3 @@
 Készíts weblapot a szokásos layout-tal (flexbox).
 Legyen header, footer, content, menu...
-A megoldást kérem betömöríteni és a github linket a classroomba feltölteni.
+A megoldást kérem githubra feltölteni és a github linket a classroomba feltölteni.
