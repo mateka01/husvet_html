@@ -1,3 +1,45 @@
+body{
+    background-color: antiquewhite;
+    margin-left: 15px;
+}
+
 #container{
-    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+}
+
+#menu{
+    width: 25%;
+    display: flex;
+    justify-content: left;
+}
+
+#header{
+    display: flex;
+    justify-content: space-between;
+}
+
+#k{
+    display: flex;
+    justify-content: left;
+    width: 25%;
+}
+
+#footer{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+a:hover{
+    color: brown;
+}
+
+#husvet{
+    margin-top: 20px;
 }
